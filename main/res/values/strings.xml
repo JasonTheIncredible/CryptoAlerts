@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project5</string>
+    <string name="agree_to_terms_and_proceed">Agree to terms and proceed</string>
+    <string name="sign_in_using_google">Sign-in using Google</string>
+</resources>
